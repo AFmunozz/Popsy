@@ -1,4 +1,4 @@
-# Título del Proyecto
+# POPSY
 
 ## Desarrollo de Sitio Web con Bootstrap, CSS y HTML
 
@@ -6,7 +6,7 @@
 
 ## Propósito del Sitio
 
-Breve descripción del propósito y objetivo del sitio web que has desarrollado.
+Dar a conocer de manera sencilla la pagina de POPSY y sus productos.
 
 ---
 
@@ -20,9 +20,8 @@ Breve descripción del propósito y objetivo del sitio web que has desarrollado.
 
 ## Integrantes
 
-- **Nombre del Estudiante 1**
-- **Nombre del Estudiante 2**
-- **Nombre del Estudiante 3**
+- **Nombre: Andres Felipez Muñoz**
+
 
 ---
 
