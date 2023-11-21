@@ -1,12 +1,11 @@
-# Título del Proyecto
-
+# Popsy
 ## Desarrollo de Sitio Web con Bootstrap, CSS y HTML
 
 ---
 
 ## Propósito del Sitio
 
-Breve descripción del propósito y objetivo del sitio web que has desarrollado.
+Paina de información de productos sobre popsy.
 
 ---
 
@@ -20,9 +19,7 @@ Breve descripción del propósito y objetivo del sitio web que has desarrollado.
 
 ## Integrantes
 
-- **Nombre del Estudiante 1**
-- **Nombre del Estudiante 2**
-- **Nombre del Estudiante 3**
+- **Nombre del Estudiante: Andres Felipe Muñoz**
 
 ---
 
